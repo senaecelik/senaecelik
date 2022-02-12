@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Movie-APP](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Movie-APP](https://github.com/senaecelik/movie_app)**
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
