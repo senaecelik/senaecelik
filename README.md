@@ -24,7 +24,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-        <a href="https://flutter.dev.com" target="_blank"> <img src="/assets/images/shared/brand/flutter/logo/flutter-lockup.png"/> </a> 
+        <a href="https://flutter.dev.com" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"/> </a> 
    
    </a> 
     
