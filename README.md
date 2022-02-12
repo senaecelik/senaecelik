@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/002/156/735/original/hijab-woman-sitting-on-the-floor-with-a-laptop-vector.jpg" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sena</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
