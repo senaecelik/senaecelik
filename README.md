@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Google Oyun ve Uygulama Academy** and **Up School - Android Developer Programme"
+- 🔭 I’m currently working on **Google Oyun ve Uygulama Academy** and **Up School - Android Developer Programme**
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
