@@ -1,13 +1,14 @@
-<p align= "center"><a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" height="50px"/></a>
+<p align= "center"><a href="#"><img align="right" width="400" height="250" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
+</a>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sena</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sena</h1>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Google Oyun ve Uygulama Academy** and **Up School - Mobile Developer Program**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Flutter&Dart, Android&Kotlin**
 
 - 📫 How to reach me **senaecelik@gmail.com**
 
