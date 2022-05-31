@@ -1,7 +1,5 @@
-<p align= "center"><a href="#"><img align="right" width="320" height="250" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
-</a>
-</p>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sena</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sena</h1>
 
 
 ## 🙋‍♂️ About Me
