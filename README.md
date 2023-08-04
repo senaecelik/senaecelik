@@ -4,7 +4,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Google Oyun ve Uygulama Academy** and **Up School - Mobile Developer Program**
 
 - 🌱 I’m currently learning **Flutter&Dart, Android&Kotlin**
 
