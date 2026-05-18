@@ -5,9 +5,8 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Flutter&Dart, Android&Kotlin**
+- 🌱 I’m currently learning **Flutter&Dart**
 
-- 📫 How to reach me **senaecelik@gmail.com**
 
 - ⚡ Fun fact **I read book, watch film and play games very often.**
 
