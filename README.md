@@ -1,56 +1,107 @@
-
-<h1 align="left">Hi, I'm Sena</h1>
-
-
-## 🙋‍♂️ About Me
-
-
-- 🌱 I’m currently learning **Flutter&Dart**
-
-
-- ⚡ Fun fact **I read book, watch film and play games very often.**
-
-
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h1 align="center">Hi, I'm Sena Çelik 👋</h1>
 
 <p align="center">
-    <a href="https://github.com/senaecelik/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sena Çelik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=senaecelik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  Flutter Developer focused on building scalable, maintainable, and production-ready mobile applications.
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-  
 <p align="center">
-    <a href="https://github.com/senaecelik/github-readme-stats"><img alt="Sena Çelik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=senaecelik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/senaecelik/github-readme-stats"><img alt="Sena Çelik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaecelik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- 
+  <a href="https://www.linkedin.com/in/senaecelik/">LinkedIn</a> •
+  <a href="https://medium.com/@senaecelik">Medium</a> •
+  <a href="https://github.com/senaecelik">GitHub</a>
 </p>
 
-<br/>
-<br/>
+---
+
+## 👩‍💻 About Me
+
+I'm a Flutter Developer with a strong focus on clean architecture, scalable project structures, and long-term code maintainability.
+
+My background in Mathematics helps me approach problems analytically, while my mobile development experience allows me to turn complex product requirements into clean, structured, and user-friendly applications.
+
+I mainly work with Flutter and Dart, and I enjoy building mobile apps with clear architecture, reusable components, and production-oriented development practices.
+
+---
+
+## 🚀 What I Focus On
+
+- Flutter & Dart mobile application development
+- Clean Architecture and feature-first project structures
+- State management with BLoC / Cubit / Provider
+- REST API integration with Dio / HTTP
+- Dependency injection, routing, error handling, and localization
+- White-label app strategies with Flutter Flavors
+- Maintainable, readable, and testable codebases
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile
+Flutter, Dart, Android, iOS
+
+### Architecture & State Management
+Clean Architecture, MVVM, BLoC, Cubit, Provider, Repository Pattern
+
+### Tools & Services
+Firebase, REST APIs, Dio, Git, GitHub Actions, Figma
+
+### Quality
+Unit Testing, Widget Testing, Code Generation, Linting, Documentation
+
+---
+
+## 📌 Featured Projects
+
+### 🌿 Flutter Clean Architecture Demo
+A production-oriented Flutter demo project built with Clean Architecture, BLoC/Cubit, Dio, GetIt, AutoRoute, localization, centralized error handling, and responsive UI.
+
+### 🎬 Flutter Movie App
+A movie discovery application using TMDB API with movie details, cast details, trailers, reviews, and similar movie recommendations.
+
+### 📚 Book Library
+A Flutter book tracking application focused on local data management, clean UI, and structured Flutter development.
+
+### 🧩 White-Label Flutter Demo
+A Flutter flavors demo showing how to manage multiple brands from a single codebase.
+
+---
+
+## ✍️ Technical Writing
+
+I share what I learn about Flutter, clean architecture, project structure, and real-world mobile development practices through technical articles and LinkedIn posts.
+
+Topics I write about:
+
+- Flutter project architecture
+- Clean code in mobile apps
+- White-label Flutter applications
+- Folder structure and maintainability
+- Real-world Flutter development practices
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<a href="https://github.com/seneacelik/github-readme-activity-graph"><img alt="Sena Çelik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=senaecelik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/senaecelik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/senaecelik/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=senaecelik&show_icons=true&hide_border=true" alt="Sena Çelik's GitHub stats" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/senaecelik?tab=following">
-    <img src="https://komarev.com/ghpvc/?username=senaecelik">
-</a>
-<a href="https://github.com/senaecelik?tab=following"><img src="https://img.shields.io/github/followers/senaecelik?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaecelik&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
+---
+
+## 🌱 Currently Improving
+
+- Advanced Flutter architecture patterns
+- Scalable white-label app structures
+- Testing strategies for Flutter apps
+- CI/CD workflows for mobile projects
+- Better technical documentation and case studies
+
+---
+
+<p align="center">
+  Clean architecture. Maintainable code. Scalable mobile products.
+</p>
